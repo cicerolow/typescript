@@ -18,3 +18,4 @@ export function sequenciaFibonacci() {
         numAtual = proximoNumero;
     }
 }
+
